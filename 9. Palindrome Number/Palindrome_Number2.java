@@ -1,4 +1,4 @@
-// Approach: Reversing the string
+// Approach: Reversing the string(4 ms)
 
 class Solution {
     public boolean isPalindrome(int x) {
